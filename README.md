@@ -27,3 +27,11 @@ We started with 111 given input images (increased to 1500+ with our synthetic da
 ## What's next for VOZAP
 - Improve an accuracy 
 - Publish the dataset
+
+https://devpost.com/software/vozap/
+## Participants
+- Oleg Potkin
+- Ashwath Narayan Murali
+- Vladimir Danilov
+- Priyamvadha Krishnakumar
+- Zafar Mahmood 
